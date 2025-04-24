@@ -17,7 +17,7 @@
   }
   "search":{
     "yts":"yts",
-    "ai":"https://api.vreden.my.id/api/qioo2?query={req}&username=user",
+    "ai":"https://api.vreden.my.id/api/qioo2?query=haii&username=user",
     "google":"https://api.vreden.my.id/api/google?query=",
     "alima":"alima"
   }
