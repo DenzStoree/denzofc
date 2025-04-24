@@ -5,8 +5,9 @@
    "media":{
       "thumbnail":"https://youtube.com/@denzstorex",
       "notifikasi":"https://jpg.com"
-   },
+   }
    "namebot": "SUNTIK SOSMED",
-   "pesanbot":"Welcome Bang 🥳",
-   "pesanupdate": "Perlu update ke versi terbaru 1.0.2"
+   "message":{
+      "pesanbot":"Welcome Bang 🥳",
+      "pesanupdate": "Perlu update ke versi terbaru 1.0.2"
 }
