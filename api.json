@@ -8,17 +8,17 @@
     "ytmp4":"https://api.vreden.my.id/api/ytmp4?url=",
     "ytmp3":"https://api.vreden.my.id/api/ytmp3?url=",
     "capcut":"https://api.vreden.my.id/api/capcutdl?url=",
-    "fb":"fb"
+    "fb":"none"
   },
   "islam":{
-    "kisahnabi":"kisah",
-    "surat":"surat",
-    "Alquran":"Quran"
+    "kisahnabi":"none",
+    "surat":"none",
+    "Alquran":"none"
   },
   "search":{
-    "yts":"yts",
+    "yts":"none",
     "ai":"https://api.vreden.my.id/api/qioo2?query=haii&username=user",
     "google":"https://api.vreden.my.id/api/google?query=",
-    "alima":"alima"
-  },
+    "alima":"nona"
+  }
 }
