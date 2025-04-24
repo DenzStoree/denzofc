@@ -9,16 +9,16 @@
     "ytmp3":"https://api.vreden.my.id/api/ytmp3?url=",
     "capcut":"https://api.vreden.my.id/api/capcutdl?url=",
     "fb":"fb"
-  }
+  },
   "islam":{
     "kisahnabi":"kisah",
     "surat":"surat",
     "Alquran":"Quran"
-  }
+  },
   "search":{
     "yts":"yts",
     "ai":"https://api.vreden.my.id/api/qioo2?query=haii&username=user",
     "google":"https://api.vreden.my.id/api/google?query=",
     "alima":"alima"
-  }
+  },
 }
