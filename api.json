@@ -1,19 +1,21 @@
 {
   "downloader":{
-    "ig": "ig",
-    "tiktok":"tt",
-    "ytmp4":"ytmp4",
-    "ytmp3":"ytmp3"
+    "ig": "https://api.vreden.my.id/api/igdownload?url=",
+    "tiktok":"https://api.vreden.my.id/api/tiktok?url=",
+    "ytmp4":"https://api.vreden.my.id/api/ytmp4?url=",
+    "ytmp3":"https://api.vreden.my.id/api/ytmp3?url=",
+    "capcut":"https://api.vreden.my.id/api/capcutdl?url=",
+    "fb":"fb"
   }
   "islam":{
     "kisahnabi":"kisah",
-    "surat":"surat"
-    "Alquran":"Qur'an",
+    "surat":"surat",
+    "Alquran":"Qur'an"
   }
   "search":{
     "yts":"yts",
-    "ai":"ai",
-    "google":"google",
+    "ai":"https://api.vreden.my.id/api/qioo2?query={req}&username=user",
+    "google":"https://api.vreden.my.id/api/google?query=",
     "alima":"alima"
   }
 }
