@@ -2,6 +2,10 @@
    "status": "200",
    "creator": "denz",
    "version": "1.0.2",
+   "media":{
+      "thumbnail":"https://youtube.com/@denzstorex",
+      "notifikasi":"https://jpg.com"
+   }
    "namebot": "SUNTIK SOSMED",
    "pesanbot": "Perlu update ke versi terbaru 1.0.2"
 }
