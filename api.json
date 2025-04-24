@@ -1,0 +1,19 @@
+{
+  "downloader":{
+    "ig": "ig",
+    "tiktok":"tt",
+    "ytmp4":"ytmp4",
+    "ytmp3":"ytmp3"
+  }
+  "islam":{
+    "kisahnabi":"kisah",
+    "surat":"surat"
+    "Alquran":"Qur'an",
+  }
+  "search":{
+    "yts":"yts",
+    "ai":"ai",
+    "google":"google",
+    "alima":"alima"
+  }
+}
