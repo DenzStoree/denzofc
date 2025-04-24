@@ -1,4 +1,6 @@
 {
+  "status":"200",
+  "creator":"denz-ofc",
   "downloader":{
     "ig": "https://api.vreden.my.id/api/igdownload?url=",
     "tiktok":"https://api.vreden.my.id/api/tiktok?url=",
