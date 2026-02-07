@@ -1,5 +1,6 @@
 {
   "apikey": {
+    "DNS" : "DNS-nya",
     "fayucode": "codenya",
     "fayuapi": "apinya",
     "pakasircode": "codenya",
