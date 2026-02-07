@@ -1,9 +1,9 @@
 {
   "apikey": {
     "dns" : "DNS-nya",
-    "fayucode": "20938",
-    "fayuapi": "dzwyjd-ricw4n-ha3yng-xmpnyu-nhvyvq",
-    "pakasircode": "Bf6Qcr8jtT9Oepn7BQjiQkkXQPRhXVVm",
-    "pakasirapi": "denz-store"
+    "fayu_id": "20938",
+    "fayu_api": "dzwyjd-ricw4n-ha3yng-xmpnyu-nhvyvq",
+    "project": " denz-store",
+    "pakasir_api": "Bf6Qcr8jtT9Oepn7BQjiQkkXQPRhXVVm"
   }
 }
